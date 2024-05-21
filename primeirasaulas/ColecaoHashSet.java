@@ -1,3 +1,4 @@
+package primeirasaulas;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -11,7 +12,7 @@ public class ColecaoHashSet {
         numeros.add(11);
         numeros.add(12);
         numeros.add(13);
-        numeros.add(13);
+        numeros.add(13); 
 
         numeros.remove(12);
 
